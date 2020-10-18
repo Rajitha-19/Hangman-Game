@@ -17,7 +17,7 @@ Our code will generate a word which has to be guessed by the player. So, that th
 
 #  BLOCK DIAGRAM OF OUR CHATBOT
 
-![block diagram](
+![block diagram](https://raw.githubusercontent.com/Rajitha-19/MaroonNova/main/Block%20diagram%20of%20chat%20bot.PNG)
 
 #  DEMO OF OUR CHATBOT
 
