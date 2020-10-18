@@ -23,4 +23,11 @@ Our code will generate a word which has to be guessed by the player. So, that th
 
 https://youtu.be/MhIH1fm60wM
 
+# ONLINE RESOURCES
+
+https://docs.python.org/3/library/random.html
+https://docs.python.org/3/library/datetime.html
+https://www.programiz.com/python-programming/time/sleep
+
+
 
